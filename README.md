@@ -4,6 +4,5 @@
  
  
 <audio controls>
-  <source src="Cult.Member.-.three.mp3¨ type="audio/mpeg">
-  Your browser does not support the audio element.
+  <source src="Cult.Member.-.three.mp3¨ type="audio/mpeg"
 </audio>
